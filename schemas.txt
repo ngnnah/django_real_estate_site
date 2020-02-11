@@ -38,24 +38,6 @@ message: TEXT
 contact_date: DATE
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 MODEL/DB FIELDS
 
 ### LISTING
