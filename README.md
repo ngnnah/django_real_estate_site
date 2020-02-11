@@ -37,4 +37,7 @@ Run this in local machine's terminal:
 `$ python3 manage.py runserver`
 
 ![page-screenshot1](show1.png)
+![page-screenshot2](show2.png)
+![page-screenshot3](show3.png)
+![page-screenshot4](show4.png)
 
