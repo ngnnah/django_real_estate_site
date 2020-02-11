@@ -1,4 +1,6 @@
-# BT Real Estate site, a mobile-friendly Django app, layout: Bootstrap4, database: PostgreSQL & pdAdmin
+# BT Real Estate site, a mobile-friendly Django app
+# layout: Bootstrap4 
+# database: PostgreSQL & pdAdmin
 
 
 Pages:
