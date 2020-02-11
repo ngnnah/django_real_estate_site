@@ -35,7 +35,7 @@ psycopg2==2.8.4
 psycopg2-binary==2.8.4
 pytz==2019.3
 
-Run this in local machine's terminal:
+You also need PostgreSQL. Start PostgreSQL server, then run this on your local machine's terminal:
 `$ python3 manage.py runserver`
 
 ![page-screenshot1](show1.png)
