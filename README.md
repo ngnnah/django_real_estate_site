@@ -1,6 +1,6 @@
 # BT Real Estate site, a mobile-friendly Django app
-# layout: Bootstrap4 
-# database: PostgreSQL & pdAdmin
+* layout: Bootstrap4 
+* database: PostgreSQL & pdAdmin
 
 
 Pages:
@@ -38,8 +38,10 @@ pytz==2019.3
 You also need PostgreSQL. Start PostgreSQL server, then run this on your local machine's terminal:
 `$ python3 manage.py runserver`
 
-![page-screenshot1](show1.png)
-![page-screenshot2](show2.png)
-![page-screenshot3](show3.png)
-![page-screenshot4](show4.png)
+## DEMO:
+<img src='show1.png' height='300px' />
+<img src='show2.png' height='300px' />
+<img src='show3.png' height='300px' />
+<img src='show4.png' height='300px' />
+
 
